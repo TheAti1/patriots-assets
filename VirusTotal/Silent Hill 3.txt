@@ -1,1 +1,1 @@
-https://www.virustotal.com/gui/file/c5045b8e5d21c0f2548dac399a75e6b6151b7c5d776adf3979ed1f0250e40c37/detection
+https://www.virustotal.com/gui/file/325626542f072f46693324de6be1856cde0d6066452ba6e07cb45dd2e4ad4d0e/detection
